@@ -1,2 +1,2 @@
-# Crypto-Dashboard
-Discover Cryptos, charts, and MarketCaps !
+#                                                    Cryptocurrency Dashboard
+##                                         Discover Cryptos, charts, and MarketCaps !
